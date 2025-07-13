@@ -16,7 +16,7 @@
     {
         "id": "3",
         "title": "Milanesa",
-        "image": "https://example.com/milanesa.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Milanesa.jpg",
         "description": "Milanesa de carne empanizada, servida con limón y ensalada.",
         "price": 7.49
     },
@@ -30,56 +30,56 @@
     {
         "id": "5",
         "title": "Papas Fritas",
-        "image": "https://example.com/papas_fritas.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Papas%20fritas.png",
         "description": "Crujientes papas fritas, perfectas como acompañamiento.",
         "price": 2.99
     },
     {
         "id": "6",
         "title": "Coca-Cola",
-        "image": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Coca%20cola.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Coca%20cola.jpg",
         "description": "Refresco clásico, ideal para acompañar tus comidas.",
         "price": 1.50
     },
     {
         "id": "7",
         "title": "Fanta",
-        "image": "https://example.com/fanta.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Fanta.jpg",
         "description": "Refresco de naranja, refrescante y burbujeante.",
         "price": 1.50
     },
     {
         "id": "8",
         "title": "Nuggets",
-        "image": "https://example.com/nuggets.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Nuggets.png",
         "description": "Crujientes nuggets de pollo, perfectos para picar.",
         "price": 4.99
     },
     {
         "id": "9",
         "title": "Milanesa Napolitana",
-        "image": "https://example.com/milanesa_napolitana.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Mila%20napolitana.png",
         "description": "Milanesa cubierta con jamón y queso, gratinada al horno.",
         "price": 8.99
     },
     {
         "id": "10",
         "title": "Sprite",
-        "image": "https://example.com/sprite.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Sprite.jpeg",
         "description": "Refresco de limón-lima, refrescante y sin cafeína.",
         "price": 1.50
     },
     {
         "id": "11",
         "title": "Cerveza",
-        "image": "https://example.com/cerveza.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/productos.json",
         "description": "Cerveza fría, ideal para acompañar tus comidas.",
         "price": 2.50
     },
     {
         "id": "12",
         "title": "Pizza",
-        "image": "https://example.com/pizza.jpg",
+        "image": "https://github.com/aguscateura/lodeviru/blob/main/imagenes/Pizza.png",
         "description": "Pizza con ingredientes frescos y masa crujiente.",
         "price": 9.99
     },
