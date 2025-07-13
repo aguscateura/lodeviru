@@ -4,7 +4,8 @@
         "title": "Hamburguesa",
         "image": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hamburguesa.png?raw=true",
         "description": "Deliciosa hamburguesa de carne con lechuga, tomate y queso.",
-        "price": 5.99
+        "price": 5.99,
+        "cantidad": 
     },
     {
         "id": "2",
