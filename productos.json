@@ -1,8 +1,14 @@
 [
     {
         "nombre": "Hamburguesa",
-        "imagen": "https://example.com/hamburguesa.jpg",
+        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hamburguesa.png?raw=true",
         "descripcion": "Deliciosa hamburguesa de carne con lechuga, tomate y queso.",
+        "precio": 5.99
+    },
+    {
+        "nombre": "Empanadas",
+        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Empanadas.png?raw=true",
+        "descripcion": "Riquísimas empanadas, horneadas o fritas. Perfectas como aperitivo o plato principal.",
         "precio": 5.99
     },
     {
@@ -13,8 +19,8 @@
     },
     {
         "nombre": "Pancho",
-        "imagen": "https://example.com/pancho.jpg",
-        "descripcion": "Salchicha en pan, acompañada de mostaza y ketchup.",
+        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hot%20dog.jpg?raw=true",
+        "descripcion": "Podés acompañarlo con mayonesa, ketchup o mayonesa.",
         "precio": 3.50
     },
     {
