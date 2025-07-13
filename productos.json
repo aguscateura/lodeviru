@@ -1,0 +1,80 @@
+[
+    {
+        "nombre": "Hamburguesa",
+        "imagen": "https://example.com/hamburguesa.jpg",
+        "descripcion": "Deliciosa hamburguesa de carne con lechuga, tomate y queso.",
+        "precio": 5.99
+    },
+    {
+        "nombre": "Milanesa",
+        "imagen": "https://example.com/milanesa.jpg",
+        "descripcion": "Milanesa de carne empanizada, servida con limón y ensalada.",
+        "precio": 7.49
+    },
+    {
+        "nombre": "Pancho",
+        "imagen": "https://example.com/pancho.jpg",
+        "descripcion": "Salchicha en pan, acompañada de mostaza y ketchup.",
+        "precio": 3.50
+    },
+    {
+        "nombre": "Papas Fritas",
+        "imagen": "https://example.com/papas_fritas.jpg",
+        "descripcion": "Crujientes papas fritas, perfectas como acompañamiento.",
+        "precio": 2.99
+    },
+    {
+        "nombre": "Coca-Cola",
+        "imagen": "https://example.com/coca_cola.jpg",
+        "descripcion": "Refresco clásico, ideal para acompañar tus comidas.",
+        "precio": 1.50
+    },
+    {
+        "nombre": "Fanta",
+        "imagen": "https://example.com/fanta.jpg",
+        "descripcion": "Refresco de naranja, refrescante y burbujeante.",
+        "precio": 1.50
+    },
+    {
+        "nombre": "Nuggets",
+        "imagen": "https://example.com/nuggets.jpg",
+        "descripcion": "Crujientes nuggets de pollo, perfectos para picar.",
+        "precio": 4.99
+    },
+    {
+        "nombre": "Milanesa Napolitana",
+        "imagen": "https://example.com/milanesa_napolitana.jpg",
+        "descripcion": "Milanesa cubierta con jamón y queso, gratinada al horno.",
+        "precio": 8.99
+    },
+    {
+        "nombre": "Sprite",
+        "imagen": "https://example.com/sprite.jpg",
+        "descripcion": "Refresco de limón-lima, refrescante y sin cafeína.",
+        "precio": 1.50
+    },
+    {
+        "nombre": "Cerveza",
+        "imagen": "https://example.com/cerveza.jpg",
+        "descripcion": "Cerveza fría, ideal para acompañar tus comidas.",
+        "precio": 2.50
+    },
+    {
+        "nombre": "Pizza",
+        "imagen": "https://example.com/pizza.jpg",
+        "descripcion": "Pizza con ingredientes frescos y masa crujiente.",
+        "precio": 9.99
+    },
+    {
+        "nombre": "Jugo Baggio",
+        "imagen": "https://example.com/jugo_baggio.jpg",
+        "descripcion": "Jugo de frutas natural, refrescante y delicioso.",
+        "precio": 2.00
+    },
+    {
+        "nombre": "Jugo Cepita",
+        "imagen": "https://example.com/jugo_cepita.jpg",
+        "descripcion": "Jugo de frutas Cepita, ideal para cualquier ocasión.",
+        "precio": 2.00
+    }
+]
