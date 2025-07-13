@@ -1,86 +1,86 @@
 [
     {
-        "producto": "Hamburguesa",
-        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hamburguesa.png?raw=true",
-        "descripcion": "Deliciosa hamburguesa de carne con lechuga, tomate y queso.",
-        "precio": 5.99
+        "title": "Hamburguesa",
+        "image": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hamburguesa.png?raw=true",
+        "description": "Deliciosa hamburguesa de carne con lechuga, tomate y queso.",
+        "price": 5.99
     },
     {
-        "producto": "Empanadas",
-        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Empanadas.png?raw=true",
-        "descripcion": "Riquísimas empanadas, horneadas o fritas. Perfectas como aperitivo o plato principal.",
-        "precio": 5.99
+        "title": "Empanadas",
+        "image": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Empanadas.png?raw=true",
+        "description": "Riquísimas empanadas, horneadas o fritas. Perfectas como aperitivo o plato principal.",
+        "price": 5.99
     },
     {
-        "producto": "Milanesa",
-        "imagen": "https://example.com/milanesa.jpg",
-        "descripcion": "Milanesa de carne empanizada, servida con limón y ensalada.",
-        "precio": 7.49
+        "title": "Milanesa",
+        "image": "https://example.com/milanesa.jpg",
+        "description": "Milanesa de carne empanizada, servida con limón y ensalada.",
+        "price": 7.49
     },
     {
-        "producto": "Pancho",
-        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hot%20dog.jpg?raw=true",
-        "descripcion": "Podés acompañarlo con mayonesa, ketchup o mayonesa.",
-        "precio": 3.50
+        "title": "Pancho",
+        "image": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Hot%20dog.jpg?raw=true",
+        "description": "Podés acompañarlo con mayonesa, ketchup o mayonesa.",
+        "price": 3.50
     },
     {
-        "producto": "Papas Fritas",
-        "imagen": "https://example.com/papas_fritas.jpg",
-        "descripcion": "Crujientes papas fritas, perfectas como acompañamiento.",
-        "precio": 2.99
+        "title": "Papas Fritas",
+        "image": "https://example.com/papas_fritas.jpg",
+        "description": "Crujientes papas fritas, perfectas como acompañamiento.",
+        "price": 2.99
     },
     {
-        "producto": "Coca-Cola",
-        "imagen": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Coca%20cola.jpg",
-        "descripcion": "Refresco clásico, ideal para acompañar tus comidas.",
-        "precio": 1.50
+        "title": "Coca-Cola",
+        "image": "https://github.com/aguscateura/img-lodeviru/blob/main/imagenes/Coca%20cola.jpg",
+        "description": "Refresco clásico, ideal para acompañar tus comidas.",
+        "price": 1.50
     },
     {
-        "producto": "Fanta",
-        "imagen": "https://example.com/fanta.jpg",
-        "descripcion": "Refresco de naranja, refrescante y burbujeante.",
-        "precio": 1.50
+        "title": "Fanta",
+        "image": "https://example.com/fanta.jpg",
+        "description": "Refresco de naranja, refrescante y burbujeante.",
+        "price": 1.50
     },
     {
-        "producto": "Nuggets",
-        "imagen": "https://example.com/nuggets.jpg",
-        "descripcion": "Crujientes nuggets de pollo, perfectos para picar.",
-        "precio": 4.99
+        "title": "Nuggets",
+        "image": "https://example.com/nuggets.jpg",
+        "description": "Crujientes nuggets de pollo, perfectos para picar.",
+        "price": 4.99
     },
     {
-        "producto": "Milanesa Napolitana",
-        "imagen": "https://example.com/milanesa_napolitana.jpg",
-        "descripcion": "Milanesa cubierta con jamón y queso, gratinada al horno.",
-        "precio": 8.99
+        "title": "Milanesa Napolitana",
+        "image": "https://example.com/milanesa_napolitana.jpg",
+        "description": "Milanesa cubierta con jamón y queso, gratinada al horno.",
+        "price": 8.99
     },
     {
-        "producto": "Sprite",
-        "imagen": "https://example.com/sprite.jpg",
-        "descripcion": "Refresco de limón-lima, refrescante y sin cafeína.",
-        "precio": 1.50
+        "title": "Sprite",
+        "image": "https://example.com/sprite.jpg",
+        "description": "Refresco de limón-lima, refrescante y sin cafeína.",
+        "price": 1.50
     },
     {
-        "producto": "Cerveza",
-        "imagen": "https://example.com/cerveza.jpg",
-        "descripcion": "Cerveza fría, ideal para acompañar tus comidas.",
-        "precio": 2.50
+        "title": "Cerveza",
+        "image": "https://example.com/cerveza.jpg",
+        "description": "Cerveza fría, ideal para acompañar tus comidas.",
+        "price": 2.50
     },
     {
-        "producto": "Pizza",
-        "imagen": "https://example.com/pizza.jpg",
-        "descripcion": "Pizza con ingredientes frescos y masa crujiente.",
-        "precio": 9.99
+        "title": "Pizza",
+        "image": "https://example.com/pizza.jpg",
+        "description": "Pizza con ingredientes frescos y masa crujiente.",
+        "price": 9.99
     },
     {
-        "producto": "Jugo Baggio",
-        "imagen": "https://example.com/jugo_baggio.jpg",
-        "descripcion": "Jugo de frutas natural, refrescante y delicioso.",
-        "precio": 2.00
+        "title": "Jugo Baggio",
+        "image": "https://example.com/jugo_baggio.jpg",
+        "description": "Jugo de frutas natural, refrescante y delicioso.",
+        "price": 2.00
     },
     {
-        "producto": "Jugo Cepita",
-        "imagen": "https://example.com/jugo_cepita.jpg",
-        "descripcion": "Jugo de frutas Cepita, ideal para cualquier ocasión.",
-        "precio": 2.00
+        "title": "Jugo Cepita",
+        "image": "https://example.com/jugo_cepita.jpg",
+        "description": "Jugo de frutas Cepita, ideal para cualquier ocasión.",
+        "price": 2.00
     }
 ]
